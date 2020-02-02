@@ -1,0 +1,2 @@
+public abstract class Roślina {
+}
